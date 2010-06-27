@@ -23,8 +23,6 @@ alias medusa="ssh medusa.neu.edu"
 alias ccs="ssh login-linux.ccs.neu.edu"
 alias zazu="ssh 69.164.208.53"
 alias lishzazu="ssh linode39560@newark141.linode.com"
-alias adb="/Applications/android-sdk-mac_86/tools/adb"
 
 # Customize to your needs...
-export PATH=/Library/Frameworks/Python.framework/Versions/2.6/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/texbin:/usr/X11/bin:/opt/local/bin:/usr/local/cuda/bin
-export DYLD_LIBRARY_PATH=/usr/local/cuda/lib:$DYLD_LIBRARY_PATH
+export PATH=/Library/Frameworks/Python.framework/Versions/2.6/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/texbin:/usr/X11/bin:/opt/local/bin:/Applications/android-sdk-mac_86/tools/
